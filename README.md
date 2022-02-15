@@ -2,7 +2,7 @@ Hank Williams
 
 The front-end of my repository can be found at hank-williams.github.io
 
-This page was created to portray my portfolio of current spatial analysis projects.
+This page was created to portray my portfolio of spatial analysis projects.
 
 ### Markdown
 
