@@ -5,7 +5,8 @@
 ### Distribution of College Graduates in Maryland Based on Census Tracts
 
 [College Graduates in Maryland 2005-2009](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="<img width="1440" alt="2005" src="https://user-images.githubusercontent.com/98786529/168200571-1e2f87e1-076d-47d6-836d-aed222124f72.png">
+"/>
 
 ---
 [College Graduates in Maryland 2010-2014](/pdf/sample_presentation.pdf)
