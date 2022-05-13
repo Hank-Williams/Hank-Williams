@@ -2,22 +2,22 @@
 
 ---
 
-### Category Name 1
+### Distribution of College Graduates in Maryland Based on Census Tracts
 
-[Project 1 Title](/sample_page)
+[College Graduates in Maryland 2005-2009](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[College Graduates in Maryland 2010-2014](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[College Graduates in Maryland 2015-2019 ](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Cluster Analysis of Maryland Graduates Using Moran's I
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
