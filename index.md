@@ -20,7 +20,7 @@
 
 ---
 
-### Cluster Analysis of Maryland Graduates Using Moran's I
+### Moran's I Cluster Analysis of Maryland Graduates
 
 [2005-2009](/sample_page)
 <img src="<img width="1440" alt="Morans 5" src="https://user-images.githubusercontent.com/98786529/168201461-a143b011-4e00-4ab6-a6e2-204fd1d61152.png">
@@ -37,12 +37,11 @@
 "/>
 
 ---
-
-### LISA Analysis of Maryland Graduates
-[2019](/sample_page)
-<img src="<img width="1440" alt="Morans 15" src="https://user-images.githubusercontent.com/98786529/168506847-513bb04b-70c4-4858-8737-dc52fb2d8c0b.png)
+[2019 ](http://example.com/)
+<img src="<img width="1440" alt="Morans 15" src="![LISA_2019](https://user-images.githubusercontent.com/98786529/169425757-11c693ea-6d63-4842-a44e-4ec60370228b.png)
+">
 "/>
 
----
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
