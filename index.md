@@ -38,8 +38,7 @@
 
 ---
 [2019 ](http://example.com/)
-<img src="<img width="1440" alt="Morans 15" src="![LISA_2019](https://user-images.githubusercontent.com/98786529/169425757-11c693ea-6d63-4842-a44e-4ec60370228b.png)
-">
+<img src="<img width="1440" alt="Morans 15" src="![LISA_2019](https://user-images.githubusercontent.com/98786529/169425757-11c693ea-6d63-4842-a44e-4ec60370228b.png)">
 "/>
 
 
